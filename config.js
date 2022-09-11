@@ -1,6 +1,6 @@
 /**
-   * Create By THE JO BOT
-   * Base By Dika
+   * Create By Rehan BOT WA
+   * Base By Rehan
 */
 
 const fs = require('fs')
@@ -20,12 +20,12 @@ global.fluming = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutpu
 global.flarun = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=runner-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.flasmurf = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 
-global.ownername = '⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟'
+global.ownername = '⏤͟͞ঔৣོ⃟ཿ☔Rehan BOT WA☔༃⃟⚟'
 // Other
-global.owner = ['6285723156229','6285723156229','6285723156229']
-global.premium = ['6285723156229']
-global.packname = '⏤͟͞ঔৣོ⃟ཿ☔𝚆𝚊𝚕𝚣𝚃𝚑𝚎𝚁𝚊𝚒𝚗☔༃⃟⚟'
-global.author = '😜😜😜'
+global.owner = ['6281344845604','6281344845604','6281344845604']
+global.premium = ['6285242045870']
+global.packname = '⏤͟͞ঔৣོ⃟ཿ☔Rehan BOT WA☔༃⃟⚟'
+global.author = 'Rehan BOT WA'
 global.wlcm = []
 global.sessionName = './src/session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
